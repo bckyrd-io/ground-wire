@@ -1,4 +1,4 @@
-# Ground App: Your Mobile Workstation Setup (codename)
+# Ground Wire: Your Mobile Workstation Setup (codename)
 
 Ground App is a mobile application designed to empower electronics enthusiasts who take their workstations on the go. It leverages AI and location services to streamline your mobile deployment process.
 
