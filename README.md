@@ -41,14 +41,15 @@ npm start
 # or
 yarn start 
 ```
-4.**Scan the QR code:**
+3. **Scan the QR code:**
 
+```bash
 Open the Expo Go app on your iOS or Android device.
 Use the camera to scan the QR code displayed in the terminal or in the Expo DevTools window that opens in your browser.
 Run the app:
 
 Once scanned, the app will bundle and load on your device through Expo.
 Optional: Set up environment variables:
-
+```
 If your app requires environment variables (e.g., API keys), create a .env file in the root directory and define them there. Ensure the .env file is included in your .gitignore for security reasons.
 Note: Ensure you have Node.js and Expo CLI installed globally on your machine. You can install Expo CLI with npm install -g expo-cli.
