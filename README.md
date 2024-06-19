@@ -21,10 +21,10 @@ Ground App is a mobile application designed to empower electronics enthusiasts w
 To get started with Ground App, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ground-app.git
-   cd ground-app
-   ```
+```bash
+git clone https://github.com/yourusername/ground-app.git
+cd ground-app
+```
 2. **Install dependencies:**
 
 ```bash
